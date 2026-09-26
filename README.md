@@ -46,7 +46,7 @@ To map the relationships between customer attributes and spending volumes, the p
 </div>
 
 *   **The Orthogonality Finding:** Our correlation metrics reveal near-zero linear relationships across every feature indicator (e.g., Age vs. MonthlySpend = -0.01). 
-*   **Outlier Retention Anomalies:** While the baseline portfolio clusters heavily inside the lower budget band (\$100 to \$500), the distribution model flags a dense trail of high-value premium anomalies stretching up to \$1,750.
+*   **Outlier Retention Anomalies:** While the baseline portfolio clusters heavily inside the lower budget band ($100 to $500), the distribution model flags a dense trail of high-value premium anomalies stretching up to $1,750.
 
 ---
 
@@ -65,7 +65,7 @@ To ensure marketing allocations are backed by mathematical proof rather than gue
 ### Core Strategic Business Insights
 1.  **Uniform Customer Spending:** Our Independent t-tests and One-Way ANOVA models successfully accepted the Null Hypothesis ($H_0$), logging exceptionally high p-values across Gender ($p = 0.7345$), Education ($p = 0.9224$), and State ($p = 0.3457$).
 2.  **Marketing Cost Reductions:** Because purchasing behavior remains uniform across all demographics, the business can completely avoid costly segment-specific advertising campaigns. Resources can be safely consolidated into broad, high-budget national marketing distributions to maximize reach while lowering overhead.
-3.  **Generational Interaction Tuning:** The correlation coefficient between customer age and interaction timelines is practically non-existent ($r = -0.0040$). Churn prevention alerts, automated win-back emails, and interaction triggers should be applied identically across all age groups.
+3.  **Generational Interaction Tuning:** The correlation coefficient between customer age and interaction timelines is practically zero ($r = 0.00$). Churn prevention alerts, automated win-back emails, and interaction triggers should be applied identically across all age groups.
 
 ---
 
