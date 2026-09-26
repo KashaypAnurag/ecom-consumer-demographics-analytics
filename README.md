@@ -1,6 +1,6 @@
 # Enterprise Consumer Demographics & Behavioral Analytics
 
-A comprehensive data analytics repository engineered to process customer profiles, track transaction frequencies, and extract consumer purchasing patterns. This project combines exploratory data analysis (EDA), automated data cleaning pipelines, and Statistical analysis to deliver actionable marketing intelligence.
+A comprehensive data analytics repository engineered to process customer profiles, track transaction frequencies, and extract consumer purchasing patterns. This project combines exploratory data analysis (EDA), data cleaning pipelines, and Statistical analysis to deliver actionable marketing intelligence.
 
 ---
 
@@ -10,7 +10,7 @@ An audit of our active consumer database establishes a clear, real-time tracking
 
 *   **Total Customer Base:** 10,675 unique customer profiles processed within the analytics pipeline.
 *   **Regional Geographic Footprint:** Active consumer accounts mapped across 10 distinct US states.
-*   **Behavioral Tracking Matrix:** Core analysis tracking demographic features against monthly spending values and customer engagement timelines (Days Since Last Interaction).
+*   **Behavioral Tracking Matrix:** Core analysis tracking demographic features against monthly spending values and customer engagement patterns.
 
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/50950725/659449693-5ad6f3fc-885a-4e3b-907b-8a5ab0fcf050.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA0MzcyNTgsIm5iZiI6MTc5MDQzNjk1OCwicGF0aCI6Ii81MDk1MDcyNS82NTk0NDk2OTMtNWFkNmYzZmMtODg1YS00ZTNiLTkwN2ItOGE1YWIwZmNmMDUwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTI2VDE1MzU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRiYmNiMmExNGI1YzNmYTY3NDAzM2JkNzlkYWM1NWQ3MzE5NjJmNTYzOTA1MjgzZjA0MGM2ZDEzNzI0NTEwYTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.kWUy342c6I2PTdvULMOVqq8auKCalAt4ckcsooIWfyc" width="32%" alt="Age Distribution Matrix" />
