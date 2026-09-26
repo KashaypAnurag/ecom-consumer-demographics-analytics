@@ -1,6 +1,6 @@
 # Enterprise Consumer Demographics & Behavioral Analytics
 
-A comprehensive data analytics repository engineered to process customer profiles, track transaction frequencies, and extract consumer purchasing patterns. This project combines exploratory data analysis (EDA), automated data cleaning pipelines, and customer segmentation matrices to deliver actionable marketing intelligence and optimize lifetime account value.
+A comprehensive data analytics repository engineered to process customer profiles, track transaction frequencies, and extract consumer purchasing patterns. This project combines exploratory data analysis (EDA), automated data cleaning pipelines, and Statistical analysis to deliver actionable marketing intelligence and optimize lifetime account value.
 
 ---
 
