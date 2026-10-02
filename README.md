@@ -12,11 +12,22 @@ An audit of our active consumer database establishes a clear, real-time tracking
 *   **Regional Geographic Footprint:** Active consumer accounts mapped across 10 distinct US states.
 *   **Behavioral Tracking Matrix:** Core analysis tracking demographic features against monthly spending values and customer engagement patterns.
 
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/50950725/659449693-5ad6f3fc-885a-4e3b-907b-8a5ab0fcf050.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA0MzcyNTgsIm5iZiI6MTc5MDQzNjk1OCwicGF0aCI6Ii81MDk1MDcyNS82NTk0NDk2OTMtNWFkNmYzZmMtODg1YS00ZTNiLTkwN2ItOGE1YWIwZmNmMDUwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTI2VDE1MzU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRiYmNiMmExNGI1YzNmYTY3NDAzM2JkNzlkYWM1NWQ3MzE5NjJmNTYzOTA1MjgzZjA0MGM2ZDEzNzI0NTEwYTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.kWUy342c6I2PTdvULMOVqq8auKCalAt4ckcsooIWfyc" width="32%" alt="Age Distribution Matrix" />
-  <img src="https://private-user-images.githubusercontent.com/50950725/659449690-dd79c547-0184-42f5-be76-1527089b7358.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA0MzcyNTgsIm5iZiI6MTc5MDQzNjk1OCwicGF0aCI6Ii81MDk1MDcyNS82NTk0NDk2OTAtZGQ3OWM1NDctMDE4NC00MmY1LWJlNzYtMTUyNzA4OWI3MzU4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTI2VDE1MzU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM1MDhlYmJhNDczYzQxOTYyZjc4ODYzMjI3YmQ2NDljOTNjOTc4MDI3OGIzMjU1OTJjYzJiMTU3N2Q0ZTE3YmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.IvNnQ2Ox11p2Tv0ATwgRjOYvYB8x2VNY-IPgrQEFhQE" width="32%" alt="Monthly Spend Outlier Vector" />
-  <img src="https://private-user-images.githubusercontent.com/50950725/659449696-ec6e285a-ed73-4df4-9745-d2d1e51c7830.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA0MzcyNTgsIm5iZiI6MTc5MDQzNjk1OCwicGF0aCI6Ii81MDk1MDcyNS82NTk0NDk2OTYtZWM2ZTI4NWEtZWQ3My00ZGY0LTk3NDUtZDJkMWU1MWM3ODMwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTI2VDE1MzU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkzZGNjN2ZkYTAzODA1YjY3MmVmZDA5YmUwNzBkMGMxN2Q4OGIxYjYzZTg0ODc4YWE2NzAxMWFlMTQ3ZjU1N2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.FJqp2SFEsuhK4GEFN3smfKVUqwTv0nz795KxUUsmT4I" width="32%" alt="Categorical Base Breakdown" />
-</div>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="33.3%" style="padding: 5px; border: none; text-align: center; valign: top;">
+      <p><b>Age Distribution Matrix</b></p>
+      <img src="./assets/readme-images/age_distribution_matrix.png" width="100%" alt="Age Distribution Matrix" />
+    </td>
+    <td width="33.3%" style="padding: 5px; border: none; text-align: center; valign: top;">
+      <p><b>Monthly Spend Outlier Vector</b></p>
+      <img src="./assets/readme-images/monthly_spend_outlier.png" width="100%" alt="Monthly Spend Outlier Vector" />
+    </td>
+    <td width="33.3%" style="padding: 5px; border: none; text-align: center; valign: top;">
+      <p><b>Categorical Base Breakdown</b></p>
+      <img src="./assets/readme-images/categorical_base_breakdown.png" width="100%" alt="Categorical Base Breakdown" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -30,20 +41,35 @@ ecom-consumer-demographics-analytics/
 ├── data/
 │   └── us_customer_insights_dataset.csv  # Verified master consumer dataset
 │
-├── consumer_spend_analytics.ipynb       # Exploratory Python analytics notebook
+├── assets/                               # Native documentation graphics container
+│   └── readme-images/                    # Local relative asset store
+│
+├── consumer_spend_analytics.ipynb        # Exploratory Python analytics notebook
 └── consumer_behavior_executive_report.pdf # Ready-to-read executive data report
-
 ```
+
+---
 
 ## 3. Multi-Variate Spend Features & Correlation Ledgers
 
 To map the relationships between customer attributes and spending volumes, the pipeline processes multi-variate continuous plots and linear covariance heatmaps:
 
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/50950725/659449697-a621ff70-bc55-4842-82df-44b67bc48085.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA0MzcyNTgsIm5iZiI6MTc5MDQzNjk1OCwicGF0aCI6Ii81MDk1MDcyNS82NTk0NDk2OTctYTYyMWZmNzAtYmM1NS00ODQyLTgyZGYtNDRiNjdiYzQ4MDg1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTI2VDE1MzU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdkYmFkMzVmMWZmMjhmZGI0ODEyMzkzOGIyZjg4ZGM0YTI0NGVjMTE2MjBiMmRjYWY0NmM1NDM3YmU2N2I2OGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.XvQIL34GKrbWEwp_HbRU71LVmARHU3V2r3qD3KYsRiY" width="32%" alt="Orthogonal Spend Vector" />
-  <img src="https://private-user-images.githubusercontent.com/50950725/659449689-bb5ed1cd-9f87-4dab-9617-0fd6c8bd0222.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA0MzcyNTgsIm5iZiI6MTc5MDQzNjk1OCwicGF0aCI6Ii81MDk1MDcyNS82NTk0NDk2ODktYmI1ZWQxY2QtOWY4Ny00ZGFiLTk2MTctMGZkNmM4YmQwMjIyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTI2VDE1MzU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEzNmQ3ODlkMzdiYzIyZWIwYjRiYWYxODRhZDMyMTZiYjFhMmI2Y2E1MWNmZWZlMTI3NGNhZjg3Yjg3NWMyOWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.rEuuWMwsta8Xdny72m5I6nOljZrdzIa39iCv_ace1Ls" width="32%" alt="Multi-Class Density Waves" />
-  <img src="https://private-user-images.githubusercontent.com/50950725/659449694-0718de6f-5219-4594-a6c9-25eaf93eadb1.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA0MzcyNTgsIm5iZiI6MTc5MDQzNjk1OCwicGF0aCI6Ii81MDk1MDcyNS82NTk0NDk2OTQtMDcxOGRlNmYtNTIxOS00NTk0LWE2YzktMjVlYWY5M2VhZGIxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTI2VDE1MzU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU0ODA4YTQzYzk4MzQwMWY4MGFkNDdkNTNhYTdlZTU4NzNiZWRiYzgzOWU4MmIyZjA4NzliYTQyMjIwZGU0M2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.ZXeaolzVxKA-Fku_NVCE6RimsVZk8JkWR-E2c5a5KB4" width="32%" alt="Linear Covariance Matrix" />
-</div>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="33.3%" style="padding: 5px; border: none; text-align: center; valign: top;">
+      <p><b>Orthogonal Spend Vector</b></p>
+      <img src="./assets/readme-images/orthogonal_spend_vector.png" width="100%" alt="Orthogonal Spend Vector" />
+    </td>
+    <td width="33.3%" style="padding: 5px; border: none; text-align: center; valign: top;">
+      <p><b>Multi-Class Density Waves</b></p>
+      <img src="./assets/readme-images/multiclass_density_waves.png" width="100%" alt="Multi-Class Density Waves" />
+    </td>
+    <td width="33.3%" style="padding: 5px; border: none; text-align: center; valign: top;">
+      <p><b>Linear Covariance Matrix</b></p>
+      <img src="./assets/readme-images/linear_covariance_matrix.png" width="100%" alt="Linear Covariance Matrix" />
+    </td>
+  </tr>
+</table>
 
 *   **The Orthogonality Finding:** Our correlation metrics reveal near-zero linear relationships across every feature indicator (e.g., Age vs. MonthlySpend = -0.01). 
 *   **Outlier Retention Anomalies:** While the baseline portfolio clusters heavily inside the lower budget band ($100 to $500), the distribution model flags a dense trail of high-value premium anomalies stretching up to $1,750.
@@ -55,17 +81,20 @@ To map the relationships between customer attributes and spending volumes, the p
 To ensure marketing allocations are backed by mathematical proof rather than guesswork, the pipeline runs extensive parametric testing across all customer cohorts:
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/50950725/659449692-b02157fd-f9e3-4c0d-96b4-c0415828b901.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA0Mzc2MTksIm5iZiI6MTc5MDQzNzMxOSwicGF0aCI6Ii81MDk1MDcyNS82NTk0NDk2OTItYjAyMTU3ZmQtZjllMy00YzBkLTk2YjQtYzA0MTU4MjhiOTAxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTI2VDE1NDE1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiNDNhYjE4Y2IxNDNmNzgzNDRhMmE4OTcyMDlhMDEzNmEyMDcxMjFiYTdkNmQ0MzRhZWEwYWIyOTg1NmY1YzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.4F7fJ0xoZYr8Kiip7nFqBmQgwBokUbYEcObEQ7oM0ug" width="100%" alt="State-Wise Distribution Matrix" style="margin-bottom: 15px;" />
-  <br>
-  <img src="https://private-user-images.githubusercontent.com/50950725/659449691-02cb160e-52d6-46aa-ad2f-dbb6c368f592.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA0Mzc2MTksIm5iZiI6MTc5MDQzNzMxOSwicGF0aCI6Ii81MDk1MDcyNS82NTk0NDk2OTEtMDJjYjE2MGUtNTJkNi00NmFhLWFkMmYtZGJiNmMzNjhmNTkyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTI2VDE1NDE1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRlYTUzNDE1YmQ0YmJiNjY0MzU2YWZhNGRiYWRiYTQ4YTQyYjYyNzY2NjkzYTIyZTNmNTJiZWIyNmZlNDkzZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.Ro1X5hHk3ubUuZg8WQP4lzW28lE53hdEpVEMuDv5ll4" width="100%" alt="Master Insights Registry" style="margin-bottom: 15px;" />
-  <br>
-  <img src="https://private-user-images.githubusercontent.com/50950725/659449695-b4d9d61c-2106-4a41-a811-84163325fe1c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA0Mzc2MTksIm5iZiI6MTc5MDQzNzMxOSwicGF0aCI6Ii81MDk1MDcyNS82NTk0NDk2OTUtYjRkOWQ2MWMtMjEwNi00YTQxLWE4MTEtODQxNjMzMjVmZTFjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTI2VDE1NDE1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIwNzM0MGY4MWU0ZWUxZTE0ZmQzY2ZhMTEyYzBjMDc5OWJjYmM5MmQ3ZTA0ZTU1NDkwNGQ5NjhhMDdlNGMwNjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.cYrRw0MISc3YXeKM6yuaxAK9sOWFJdIeEtzwPV40hlY" width="100%" alt="Repository Root Alignment" />
+  <p><b>State-Wise Distribution Matrix</b></p>
+  <img src="./assets/readme-images/state_wise_distribution.png" width="100%" alt="State-Wise Distribution Matrix" style="margin-bottom: 20px;" />
+  <p><b>Master Insights Hypothesis Framework</b></p>
+  <img src="./assets/readme-images/master_insights_registry.png" width="100%" alt="Master Insights Registry" style="margin-bottom: 20px;" />
+  <p><b>Parametric T-Test Execution Log (Gender)</b></p>
+  <img src="./assets/readme-images/hypothesis_execution_log_1.png" width="100%" alt="Gender Parametric Testing Log" style="margin-bottom: 20px;" />
+  <p><b>One-Way ANOVA Execution Log (Education)</b></p>
+  <img src="./assets/readme-images/hypothesis_execution_log_2.png" width="100%" alt="Education ANOVA Execution Log" />
 </div>
 
 ### Core Strategic Business Insights
-1.  **Uniform Customer Spending:** Our Independent t-tests and One-Way ANOVA models successfully accepted the Null Hypothesis ($H_0$), logging exceptionally high p-values across Gender ($p = 0.7345$), Education ($p = 0.9224$), and State ($p = 0.3457$).
+1.  **Uniform Customer Spending:** Our Independent t-tests and One-Way ANOVA models successfully accepted the Null Hypothesis (H0), logging exceptionally high p-values across Gender (p=0.7345), Education (p=0.9224), and State (p=0.3457).
 2.  **Marketing Cost Reductions:** Because purchasing behavior remains uniform across all demographics, the business can completely avoid costly segment-specific advertising campaigns. Resources can be safely consolidated into broad, high-budget national marketing distributions to maximize reach while lowering overhead.
-3.  **Generational Interaction Tuning:** The correlation coefficient between customer age and interaction timelines is practically zero ($r = 0.00$). Churn prevention alerts, automated win-back emails, and interaction triggers should be applied identically across all age groups.
+3.  **Generational Interaction Tuning:** The correlation coefficient between customer age and interaction timelines is practically zero (r=0.00). Churn prevention alerts, automated win-back emails, and interaction triggers should be applied identically across all age groups.
 
 ---
 
